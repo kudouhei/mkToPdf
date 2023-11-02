@@ -1,0 +1,29 @@
+{
+  "name": "mkToPdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kudou",
+  "dependencies": {
+    "vscode-uri": "^3.0.8",
+    "cheerio": "^1.0.0-rc.11",
+    "highlight.js": "^11.5.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-checkbox": "^1.1.0",
+    "markdown-it-container": "^3.0.0",
+    "markdown-it-emoji": "^2.0.2",
+    "markdown-it-include": "^2.0.0",
+    "markdown-it-named-headers": "0.0.4",
+    "markdown-it-plantuml": "^1.0.0",
+    "mkdirp": "^1.0.4",
+    "mustache": "^4.2.0",
+    "rimraf": "^3.0.2",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "improved-yarn-audit": "^3.0.0"
+  }
+}
